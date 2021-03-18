@@ -11,6 +11,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 The "Makeathon Model Code" notebook is the notebook to make h5 model files, including the model used in the presentation.  
 
-Note: The audio file was too large and cannot be added to gitHub
+Note: The full audio file was too large and cannot be added to gitHub
 1. Download audio file: https://www.bensound.com/royalty-free-music/track/love
 2. Convert audio file to .wav format: https://cloudconvert.com/mp3-to-wav
